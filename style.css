@@ -41,7 +41,7 @@ body {
 }
 .container .content .profile h2 {
   color: var(--Very-dark-desaturated-blue);
-  margin: 3rem 0 0 0;
+  margin: 1rem 0 0 0;
 }
 .container .content .profile h2 > span {
   color: var(--Dark-gray);
